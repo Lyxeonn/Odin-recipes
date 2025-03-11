@@ -6,3 +6,7 @@ li {
    color: darkorange;
    font-size: smaller; 
 }
+
+body {
+    image-resolution: 50px;
+}
