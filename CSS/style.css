@@ -2,3 +2,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: aquamarine;
 }
+li {
+   color: darkorange;
+   font-size: smaller; 
+}
